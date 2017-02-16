@@ -1,0 +1,4 @@
+# .				  BungeePing by xDefcon
+# . 		Check your in-game Ping with a command
+
+langPing: "&a[Ping] &7Your ping is: &a%ping%"
